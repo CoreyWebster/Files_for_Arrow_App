@@ -1,5 +1,6 @@
 {
- "workouts ": [{
+ "workouts": [
+		{
 		"id": 1,
 		"title": "Recovery run with pickups",
 		"description": "10min warmup, 50 minute run with 100m strides every 8min, 10min cool down",
